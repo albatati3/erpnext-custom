@@ -14,5 +14,9 @@
    {
     "url": "https://github.com/frappe/insights.git",
     "branch": "version-15"
+  },
+   {
+    "url": "https://github.com/earthians/marley.git",
+    "branch": "version-15"
   }
 ]
