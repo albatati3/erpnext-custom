@@ -10,5 +10,9 @@
   {
     "url": "https://github.com/frappe/payments.git",
     "branch": "version-15"
+  },
+   {
+    "url": "https://github.com/frappe/insights.git",
+    "branch": "version-15"
   }
 ]
