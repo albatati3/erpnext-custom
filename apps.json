@@ -18,5 +18,21 @@
    {
     "url": "https://github.com/earthians/marley.git",
     "branch": "version-15"
+  },
+   {
+    "url": "https://github.com/frappe/drive.git",
+    "branch": "main"
+  },
+   {
+    "url": "https://github.com/frappe/helpdesk.git",
+    "branch": "develop"
+  },
+   {
+    "url": "https://github.com/frappe/gameplan.git",
+    "branch": "main"
+  },
+  {
+    "url": "https://github.com/frappe/wiki.git",
+    "branch": "master"
   }
 ]
